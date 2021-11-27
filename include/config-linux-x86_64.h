@@ -26,8 +26,8 @@
 /* Define if we have SSE CPU extensions */
 #ifndef RASPBERRYPI
 #define HAVE_SSE
-#define HAVE_SSE2
-#define HAVE_SSE3
+/* #define HAVE_SSE2 */
+/* #define HAVE_SSE3 */
 /* #undef HAVE_SSE4_1 */
 #endif
 
